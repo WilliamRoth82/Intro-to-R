@@ -1,5 +1,7 @@
 # R script to accompany Intro to R
-# Copy for William Rothpletz
+# Copy for William T. Rothpletz, The Cheif
+#
+# Self Proclaimed Grandmaster of the Universe 
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
