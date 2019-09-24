@@ -2,6 +2,8 @@
 # Copy for William T. Rothpletz, The Cheif
 #
 # Self Proclaimed Grandmaster of the Universe 
+# 
+# Also known as The Docta
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
